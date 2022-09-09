@@ -1,0 +1,452 @@
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\CoverletSourceRootsMapping
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\testhost.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\EmployeeMicroservice.deps.json
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\EmployeeMicroservice.runtimeconfig.json
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\EmployeeMicroservice.runtimeconfig.dev.json
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\appsettings.Development.json
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\appsettings.json
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\EmployeeMicroservice.exe
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\testhost.exe
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\nunit.engine.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\nunit.engine.api.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\nunit.engine.core.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\testcentric.engine.metadata.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\EmployeeMicroserviceTest.deps.json
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\EmployeeMicroserviceTest.runtimeconfig.json
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\EmployeeMicroserviceTest.runtimeconfig.dev.json
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\EmployeeMicroserviceTest.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\EmployeeMicroserviceTest.pdb
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\NuGet.Frameworks.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\nunit.framework.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\EmployeeMicroservice.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\EmployeeMicroservice.pdb
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\obj\Debug\net5.0\EmployeeMicroserviceTest.csproj.AssemblyReference.cache
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\obj\Debug\net5.0\EmployeeMicroserviceTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\obj\Debug\net5.0\EmployeeMicroserviceTest.AssemblyInfoInputs.cache
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\obj\Debug\net5.0\EmployeeMicroserviceTest.AssemblyInfo.cs
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\obj\Debug\net5.0\EmployeeMicroserviceTest.csproj.CoreCompileInputs.cache
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\obj\Debug\net5.0\EmployeeMicroserviceTest.csproj.CopyComplete
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\obj\Debug\net5.0\EmployeeMicroserviceTest.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\obj\Debug\net5.0\refint\EmployeeMicroserviceTest.dll
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\obj\Debug\net5.0\EmployeeMicroserviceTest.pdb
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\obj\Debug\net5.0\EmployeeMicroserviceTest.genruntimeconfig.cache
+D:\project\MFPE\AngularUI (1)\CorporateClassifieds\Employee\EmployeeMicroserviceTest\obj\Debug\net5.0\ref\EmployeeMicroserviceTest.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\CoverletSourceRootsMapping
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\appsettings.Development.json
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\appsettings.json
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\testhost.exe
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\testhost.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\nunit.engine.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\nunit.engine.api.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\nunit.engine.core.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\testcentric.engine.metadata.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\EmployeeMicroservice.deps.json
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\EmployeeMicroservice.runtimeconfig.json
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\EmployeeMicroservice.runtimeconfig.dev.json
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\EmployeeMicroservice.exe
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\EmployeeMicroserviceTest.deps.json
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\EmployeeMicroserviceTest.runtimeconfig.json
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\EmployeeMicroserviceTest.runtimeconfig.dev.json
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\EmployeeMicroserviceTest.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\EmployeeMicroserviceTest.pdb
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\NuGet.Frameworks.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\nunit.framework.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\EmployeeMicroservice.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\EmployeeMicroservice.pdb
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\obj\Debug\net5.0\EmployeeMicroserviceTest.csproj.AssemblyReference.cache
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\obj\Debug\net5.0\EmployeeMicroserviceTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\obj\Debug\net5.0\EmployeeMicroserviceTest.AssemblyInfoInputs.cache
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\obj\Debug\net5.0\EmployeeMicroserviceTest.AssemblyInfo.cs
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\obj\Debug\net5.0\EmployeeMicroserviceTest.csproj.CoreCompileInputs.cache
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\obj\Debug\net5.0\EmployeeMicroserviceTest.csproj.CopyComplete
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\obj\Debug\net5.0\EmployeeMicroserviceTest.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\obj\Debug\net5.0\refint\EmployeeMicroserviceTest.dll
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\obj\Debug\net5.0\EmployeeMicroserviceTest.pdb
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\obj\Debug\net5.0\EmployeeMicroserviceTest.genruntimeconfig.cache
+D:\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\obj\Debug\net5.0\ref\EmployeeMicroserviceTest.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\appsettings.json
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\testhost.exe
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\testhost.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\nunit.engine.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\nunit.engine.api.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\nunit.engine.core.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\testcentric.engine.metadata.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\EmployeeMicroservice.deps.json
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\EmployeeMicroservice.runtimeconfig.json
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\EmployeeMicroservice.runtimeconfig.dev.json
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\EmployeeMicroservice.exe
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\EmployeeMicroserviceTest.deps.json
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\EmployeeMicroserviceTest.runtimeconfig.json
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\EmployeeMicroserviceTest.runtimeconfig.dev.json
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\EmployeeMicroserviceTest.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\EmployeeMicroserviceTest.pdb
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\NuGet.Frameworks.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\EmployeeMicroservice.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\EmployeeMicroservice.pdb
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\obj\Debug\net5.0\EmployeeMicroserviceTest.csproj.AssemblyReference.cache
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\obj\Debug\net5.0\EmployeeMicroserviceTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\obj\Debug\net5.0\EmployeeMicroserviceTest.AssemblyInfoInputs.cache
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\obj\Debug\net5.0\EmployeeMicroserviceTest.AssemblyInfo.cs
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\obj\Debug\net5.0\EmployeeMicroserviceTest.csproj.CoreCompileInputs.cache
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\obj\Debug\net5.0\EmployeeMicroserviceTest.csproj.CopyComplete
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\obj\Debug\net5.0\EmployeeMicroserviceTest.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\obj\Debug\net5.0\refint\EmployeeMicroserviceTest.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\obj\Debug\net5.0\EmployeeMicroserviceTest.pdb
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\obj\Debug\net5.0\EmployeeMicroserviceTest.genruntimeconfig.cache
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Employee\EmployeeMicroserviceTest\obj\Debug\net5.0\ref\EmployeeMicroserviceTest.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\appsettings.json
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\testhost.exe
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\testhost.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\nunit.engine.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\nunit.engine.api.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\nunit.engine.core.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\testcentric.engine.metadata.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\EmployeeMicroservice.deps.json
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\EmployeeMicroservice.runtimeconfig.json
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\EmployeeMicroservice.runtimeconfig.dev.json
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\EmployeeMicroservice.exe
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\EmployeeMicroserviceTest.deps.json
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\EmployeeMicroserviceTest.runtimeconfig.json
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\EmployeeMicroserviceTest.runtimeconfig.dev.json
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\EmployeeMicroserviceTest.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\EmployeeMicroserviceTest.pdb
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\NuGet.Frameworks.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\EmployeeMicroservice.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\bin\Debug\net5.0\EmployeeMicroservice.pdb
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\obj\Debug\net5.0\EmployeeMicroserviceTest.csproj.AssemblyReference.cache
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\obj\Debug\net5.0\EmployeeMicroserviceTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\obj\Debug\net5.0\EmployeeMicroserviceTest.AssemblyInfoInputs.cache
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\obj\Debug\net5.0\EmployeeMicroserviceTest.AssemblyInfo.cs
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\obj\Debug\net5.0\EmployeeMicroserviceTest.csproj.CoreCompileInputs.cache
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\obj\Debug\net5.0\EmployeeMicroserviceTest.csproj.CopyComplete
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\obj\Debug\net5.0\EmployeeMicroserviceTest.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\obj\Debug\net5.0\refint\EmployeeMicroserviceTest.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\obj\Debug\net5.0\EmployeeMicroserviceTest.pdb
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\obj\Debug\net5.0\EmployeeMicroserviceTest.genruntimeconfig.cache
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Employee\EmployeeMicroserviceTest\obj\Debug\net5.0\ref\EmployeeMicroserviceTest.dll

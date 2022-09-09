@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\dokka\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\dokka\\.nuget\\packages"
+    ]
+  }
+}
